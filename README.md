@@ -42,4 +42,4 @@ By accurately identifying and classifying dog breeds, this project showcases the
 
 ---
 
-Does this now capture everything you want to communicate in your README? Any further tweaks or additional sections needed? 😊
+
