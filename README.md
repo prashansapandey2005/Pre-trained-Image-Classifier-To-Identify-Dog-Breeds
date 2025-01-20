@@ -3,6 +3,7 @@
 
 ## Overview
 This project aims to develop a robust image classifier using three pre-trained Convolutional Neural Networks (CNNs)—ResNet18, AlexNet, and VGG. The goal is to accurately identify whether an image contains a dog and, if so, classify the specific breed of the dog. 
+
 This project forms part of the Udacity AI Programming with Python Nanodegree program, under the AWS AI/ML Scholarship, focusing on assessing and comparing the performance of the three CNN models on a provided dog image dataset.
 
 ## Technologies Used
